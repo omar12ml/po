@@ -1,0 +1,227 @@
+#title{
+background-color: #ff4c68;
+margin: 0;
+margin-left: 0;
+margin-right: o;
+}
+
+.img{
+    transform: rotate(30deg);
+    z-index: 0;
+    float: left;
+    position: relative;
+    
+    top:80px;
+    left:10rem;
+    width:40%;
+}
+
+    
+  
+
+#two{
+    text-align: center;
+    padding:3%
+
+}
+
+
+#features{
+    padding: 8% 13%;
+    position:relative;
+    top:0px;
+    z-index: 1;
+    background-color: #fff;
+}
+.icon{
+    color: #ff4c68;
+}
+
+.six{
+    border-radius: 100%;
+    padding-right: 2%;
+    width:17%;
+  
+    
+   
+}
+
+
+
+
+.icon:hover{
+color: rgb(81, 176, 9);
+}
+.fo{
+    width: 13%;
+}
+
+.opt{
+    
+    text-align: center;
+ 
+
+    padding:3% 5%;
+    
+}
+#jon{
+   color: #ff4c68;
+    text-align: center;
+    font-size: 3.5rem;
+    margin-right: 10px;
+    padding-top: 1rem;
+}
+#jon:hover{
+    color: black;
+}
+.to{
+    text-align: center;
+    font-size: 1.25rem;
+    padding-top: 1rem;
+}
+.lop{
+    font-size: 60px;
+}
+
+#cta{
+    background-color: #ff4c68;
+ text-align: center;
+ font-family: 'Montserrat Subrayada', sans-serif;
+ color: #fff;
+ height: 200px;
+
+ text-align: center;
+}
+#footer{
+    background-color: #fff;
+    padding: 1% 1%;
+text-align: center;}
+#dd{
+    position:relative;
+    right: 20px;
+    left: 10px;
+}
+
+.container-fluid{
+    padding: 3% 5%;
+}
+#pn{
+    width: 80%;
+    margin: 0 auto 0 auto;
+    padding: 2%;
+    font-size: 1.5rem;
+    padding-bottom: 0;
+    padding-top: 1rem;
+   
+}
+.navbar-brand {
+   font-size: 3rem;
+}
+#op{
+    text-align: center;
+    font-size: 2rem;
+}
+#op:hover{
+    background-color: chartreuse;
+}
+#rov{
+    margin: 20px;
+}
+.container-fluid{
+    padding-bottom: 0;
+}
+#on{
+    padding: 5px;
+}
+#testimonials{
+    background-color: #ff4c68;
+    padding: 6% 30%;
+ color: aliceblue;
+ text-align: center;
+
+}
+#press{
+    text-align: center;
+    
+    padding-bottom: 5%;
+        background-color: #ff4c68;
+    }
+    .logo{
+        width: 15%;
+        margin: 0% 2%;
+    
+    }
+#pricing{
+    padding-right: 5rem;   padding-left: 5rem;
+ 
+ }
+ .row{
+margin: 10px;
+    padding:4rem;
+    text-align: center;
+}
+.card-header:hover{
+    background-color: aquamarine;
+    font-size: 3rem;
+}
+#opp{
+    padding-right:0 ;
+    padding-left:0;
+}
+#it{
+    padding-right:0 ;
+    padding-left:0;
+   
+}
+#im{
+    padding-right:0 ;
+    padding-left:0;
+
+  
+}
+h3 {
+
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family: "Montserrat-Bold";
+}
+h2{
+
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family: "Montserrat-Bold";
+}
+@media (max-width: 900px){
+.img{
+    transform: rotate(0deg);
+    position: static;
+margin-left: 20%;
+margin-top: 2rem;
+}
+#title{
+   text-align: center;
+   margin:0 auto 0 auto ;
+
+}
+#pon{
+    width: 70%;}
+}
+#pon{
+   
+   margin-left: 7%;
+   margin-top: 4%;
+  
+   
+}
+.finish{
+padding: 40px;
+
+}
+.download-btn{
+    margin-right: 3%;
+margin-left: 2%;
+}
+.fa-8xs{
+ margin:2% 2% ;
+   
+}
